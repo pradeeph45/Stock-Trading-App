@@ -1,12 +1,10 @@
 package com.trading.userservice.dto;
 
-import com.trading.userservice.entity.UserStatus;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.math.BigDecimal;
-import java.time.LocalDateTime;
 
 @Data
 @AllArgsConstructor

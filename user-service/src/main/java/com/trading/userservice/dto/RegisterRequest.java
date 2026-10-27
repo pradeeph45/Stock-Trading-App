@@ -30,5 +30,4 @@ public class RegisterRequest {
 
     private BigDecimal initialDeposit = BigDecimal.valueOf(10000);
 
-
 }

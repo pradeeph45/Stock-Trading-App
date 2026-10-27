@@ -1,0 +1,27 @@
+IntelliJ IDEA
+
+/.idea/
+/shelf/
+/workspace.xml
+/httpRequests/
+/queries/
+/dataSources/
+/dataSources.local.xml
+*.iml
+
+Compiled Java files
+
+*.class
+
+Maven build output (all modules)
+
+**/target/
+
+Environment-specific files
+
+.env
+.env.*
+
+Keep example environment configuration if needed
+
+!.env.example
